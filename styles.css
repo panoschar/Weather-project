@@ -1,0 +1,49 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-image: url(./image4.jpg);
+    background-size: cover;
+}
+
+.container {
+    padding: 3em;
+    border: none;
+    border-radius: 15px;
+}
+
+h1 {
+    color: white;
+    margin: 0px 0px 15px;
+}
+
+input {
+    width: 60%;
+    padding: 10px;
+    border: none;
+    border-radius: 20px;
+    display: block;
+    margin: 0 auto;
+}
+
+button {
+    border-radius: 20px;
+    border: none;
+    display: block;
+    margin: auto;
+    padding: 5px;
+    margin-top: 15px;
+    background-color: white;
+    font-size: x-small;
+}
+
+h3 {
+    color: antiquewhite;
+    margin-top: 40px;
+}
