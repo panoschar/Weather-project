@@ -9,3 +9,5 @@ function getWeather() {
             document.getElementById("temp").innerText = temp;
         });
 };
+
+

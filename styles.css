@@ -19,8 +19,8 @@ body {
 }
 
 h1 {
-    color: white;
-    margin: 0px 0px 15px;
+    color: rgb(0, 5, 103);
+    margin-bottom: 50px;
 }
 
 input {
@@ -43,7 +43,13 @@ button {
     font-size: x-small;
 }
 
-h3 {
-    color: antiquewhite;
-    margin-top: 40px;
+h4 {
+    color: rgb(232, 32, 10);
+    margin-top: 10px;
+    margin-left: 20px;
+}
+
+h2 {
+    color: rgb(0, 5, 103);
+    margin-top: 30px;
 }
